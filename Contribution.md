@@ -112,7 +112,7 @@ The platform should now be running at `http://localhost:3000/`.
 
 ## Branching Strategy & Commit Message Format
 ### Branching Strategy
-- **main**: Stable, production-ready code.
+- **v2**: Stable, production-ready code.
 - **dev**: Latest development changes.
 - **feature/xyz**: New features.
 - **bugfix/xyz**: Bug fixes.
